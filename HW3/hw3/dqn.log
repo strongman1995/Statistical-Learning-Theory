@@ -1,0 +1,82 @@
+[33mWARN: gym.spaces.Box autodetected dtype as <class 'numpy.float32'>. Please provide explicit dtype.[0m
+(4,) ()
+Step 0, elapsed time: 0.2 min
+[33mWARN: gym.spaces.Box autodetected dtype as <class 'numpy.float32'>. Please provide explicit dtype.[0m
+Mean return: 64.99832461312891
+Mean undiscounted return: 112.6
+Step 1000, elapsed time: 1.7 min
+[33mWARN: gym.spaces.Box autodetected dtype as <class 'numpy.float32'>. Please provide explicit dtype.[0m
+Mean return: 56.137637708166224
+Mean undiscounted return: 82.2
+Step 2000, elapsed time: 3.3 min
+[33mWARN: gym.spaces.Box autodetected dtype as <class 'numpy.float32'>. Please provide explicit dtype.[0m
+Mean return: 86.6020325142037
+Mean undiscounted return: 200.0
+Step 3000, elapsed time: 4.9 min
+[33mWARN: gym.spaces.Box autodetected dtype as <class 'numpy.float32'>. Please provide explicit dtype.[0m
+Mean return: 86.6020325142037
+Mean undiscounted return: 200.0
+Step 4000, elapsed time: 6.6 min
+[33mWARN: gym.spaces.Box autodetected dtype as <class 'numpy.float32'>. Please provide explicit dtype.[0m
+Mean return: 86.6020325142037
+Mean undiscounted return: 200.0
+Step 5000, elapsed time: 8.2 min
+[33mWARN: gym.spaces.Box autodetected dtype as <class 'numpy.float32'>. Please provide explicit dtype.[0m
+Mean return: 86.6020325142037
+Mean undiscounted return: 200.0
+Step 6000, elapsed time: 9.9 min
+[33mWARN: gym.spaces.Box autodetected dtype as <class 'numpy.float32'>. Please provide explicit dtype.[0m
+Mean return: 86.6020325142037
+Mean undiscounted return: 200.0
+Step 7000, elapsed time: 11.9 min
+[33mWARN: gym.spaces.Box autodetected dtype as <class 'numpy.float32'>. Please provide explicit dtype.[0m
+Mean return: 86.6020325142037
+Mean undiscounted return: 200.0
+Step 8000, elapsed time: 13.8 min
+[33mWARN: gym.spaces.Box autodetected dtype as <class 'numpy.float32'>. Please provide explicit dtype.[0m
+Mean return: 86.6020325142037
+Mean undiscounted return: 200.0
+Step 9000, elapsed time: 16.4 min
+[33mWARN: gym.spaces.Box autodetected dtype as <class 'numpy.float32'>. Please provide explicit dtype.[0m
+Mean return: 86.49211463585843
+Mean undiscounted return: 199.2
+Step 10000, elapsed time: 18.3 min
+[33mWARN: gym.spaces.Box autodetected dtype as <class 'numpy.float32'>. Please provide explicit dtype.[0m
+Mean return: 85.65908694884352
+Mean undiscounted return: 194.0
+Step 11000, elapsed time: 20.2 min
+[33mWARN: gym.spaces.Box autodetected dtype as <class 'numpy.float32'>. Please provide explicit dtype.[0m
+Mean return: 82.54731588369165
+Mean undiscounted return: 174.2
+Step 12000, elapsed time: 22.1 min
+[33mWARN: gym.spaces.Box autodetected dtype as <class 'numpy.float32'>. Please provide explicit dtype.[0m
+Mean return: 86.40672726829044
+Mean undiscounted return: 198.6
+Step 13000, elapsed time: 24.1 min
+[33mWARN: gym.spaces.Box autodetected dtype as <class 'numpy.float32'>. Please provide explicit dtype.[0m
+Mean return: 86.6020325142037
+Mean undiscounted return: 200.0
+Step 14000, elapsed time: 25.9 min
+[33mWARN: gym.spaces.Box autodetected dtype as <class 'numpy.float32'>. Please provide explicit dtype.[0m
+Mean return: 86.6020325142037
+Mean undiscounted return: 200.0
+Step 15000, elapsed time: 27.8 min
+[33mWARN: gym.spaces.Box autodetected dtype as <class 'numpy.float32'>. Please provide explicit dtype.[0m
+Mean return: 86.6020325142037
+Mean undiscounted return: 200.0
+Step 16000, elapsed time: 29.6 min
+[33mWARN: gym.spaces.Box autodetected dtype as <class 'numpy.float32'>. Please provide explicit dtype.[0m
+Mean return: 86.6020325142037
+Mean undiscounted return: 200.0
+Step 17000, elapsed time: 31.5 min
+[33mWARN: gym.spaces.Box autodetected dtype as <class 'numpy.float32'>. Please provide explicit dtype.[0m
+Mean return: 86.6020325142037
+Mean undiscounted return: 200.0
+Step 18000, elapsed time: 33.3 min
+[33mWARN: gym.spaces.Box autodetected dtype as <class 'numpy.float32'>. Please provide explicit dtype.[0m
+Mean return: 86.6020325142037
+Mean undiscounted return: 200.0
+Step 19000, elapsed time: 35.0 min
+[33mWARN: gym.spaces.Box autodetected dtype as <class 'numpy.float32'>. Please provide explicit dtype.[0m
+Mean return: 86.6020325142037
+Mean undiscounted return: 200.0
